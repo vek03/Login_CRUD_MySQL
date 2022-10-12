@@ -1,6 +1,6 @@
 Programa desenvolvido em JAVA 17 com conceitos básicos de conexão com banco de dados via MySQL. Consiste em uma tabela de cadastro que salva as informações no banco e exibe todos os cadastros feitos em uma tabela.
 
-Está é a terceira e última versão do programa Desktop, nesta todos os componentes já estão em funcionamento com ausência de bugs.
+Está é a terceira versão do programa Desktop, nesta todos os componentes já estão em funcionamento com ausência de bugs.
 
 O que o programa faz?
 
